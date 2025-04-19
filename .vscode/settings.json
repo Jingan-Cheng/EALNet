@@ -1,0 +1,6 @@
+{
+    "python.languageServer": "Pylance",
+    "editor.fontSize": 14,
+    "files.autoSave": "onFocusChange",
+    "window.zoomLevel": 1
+}
