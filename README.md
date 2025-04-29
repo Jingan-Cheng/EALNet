@@ -47,13 +47,16 @@ The pretrained weights from [HERE](https://1drv.ms/f/s!Al2dMJC6HUgQrbYab3ozHGUYr
 ### Quantitative Results
 
 ![arch](assets/A_B_QNRF.jpg)
-![arch](assets/JHU.png)
+![arch](assets/framework.jpg)
 
 ### Visual Results
 
-![arch](assets/Visual.jpg)
+![arch](assets/Visual1.jpg)
+![arch](assets/Visual2.jpg)
+![arch](assets/Visual3.jpg)
 
-<!-- ## Citation
+
+## Citation
 
 If you find this code or research helpful, please consider citing our paper:
 
@@ -65,7 +68,7 @@ journal={under_review}
 year={2025},
 }
 ```
-Please note that this citation is a placeholder and will be updated with the actual citation information once the paper is accepted and published. We kindly request you to revisit this section and replace the placeholder with the correct citation detail. -->
+Please note that this citation is a placeholder and will be updated with the actual citation information once the paper is accepted and published. We kindly request you to revisit this section and replace the placeholder with the correct citation detail.
 
 ## Acknowledgements
 
