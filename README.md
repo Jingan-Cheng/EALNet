@@ -31,12 +31,14 @@ The training code will be released after the acceptance of this paper
 ## Test
 
 The training code will be released after the acceptance of this paper
+
 1. Prepare the datasets used in the experiment.
 2. Modify the data set address in `make_npydata.py` to generate the correct dataset information
 3. Modify the dataset, save_path and other options in `config.py`.
 4. Modify `test.py` to specify your own test options.
 5. update the `pre` argument in `config.py` with the path to the pretrained model.
 6. After performing the above modifications, you can start the testing process by running `python test.py`.
+
 
 ## Pretrained Weights
 
