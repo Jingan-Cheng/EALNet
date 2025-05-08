@@ -15,7 +15,7 @@ The code is tested on Ubuntu 22.04 environment (Python3.9.20, PyTorch2.2.2) with
   - [Results](#results)
     - [Quantitative Results](#quantitative-results)
     - [Visual Results](#visual-results)
-  - [Citation](#citation)
+  <!-- - [Citation](#citation) -->
   - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -56,19 +56,19 @@ The pretrained weights from [HERE](https://1drv.ms/f/s!Al2dMJC6HUgQrbYab3ozHGUYr
 ![arch](assets/Visual3.jpg)
 
 
-## Citation
+<!-- ## Citation -->
 
-If you find this code or research helpful, please consider citing our paper:
+<!-- If you find this code or research helpful, please consider citing our paper: -->
 
-```BibTeX
-@article{Cheng2025Energy,
+<!-- ```BibTeX -->
+<!-- @article{Cheng2025Energy,
 title={Energy-driven Active Learning Network for Domain Adaptation in Crowd Counting},
 author={Cheng, Jing-an and Zhai, Wenzhe and Li, Qilei and Gao, Mingliang},
 journal={under_review}
 year={2025},
 }
 ```
-Please note that this citation is a placeholder and will be updated with the actual citation information once the paper is accepted and published. We kindly request you to revisit this section and replace the placeholder with the correct citation detail.
+Please note that this citation is a placeholder and will be updated with the actual citation information once the paper is accepted and published. We kindly request you to revisit this section and replace the placeholder with the correct citation detail. -->
 
 ## Acknowledgements
 
