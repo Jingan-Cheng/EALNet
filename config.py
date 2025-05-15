@@ -19,7 +19,7 @@ parser.add_argument(
 parser.add_argument(
     "--save_path",
     type=str,
-    default="/scratch/jingan/active_energy/test/a_b",
+    default="../active_energy/test/a_b",
     help="cho`ice train dataset",
 )
 parser.add_argument("--workers", type=int, default=16, help="load data workers=8 or 16")

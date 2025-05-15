@@ -471,7 +471,7 @@ class HighResolutionNet(nn.Module):
                 nn.init.constant_(m.bias, 0)
 
         if train==True:
-            model_path = "/scratch/jingan/active_energy/checkpoint/A_B_model_best.pth"
+            model_path = "../active_energy/checkpoint/A_B_model_best.pth"
             pretrained_dict = torch.load(model_path)
             logger.info('=> loading pretrained model {}')
             checkpoint = {}

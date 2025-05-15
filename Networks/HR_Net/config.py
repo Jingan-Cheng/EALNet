@@ -12,4 +12,4 @@ __C.SEED = 1  # random seed,  for reproduction
 
 
 __C.NET = 'HR_Net'
-__C.PRE_HR_WEIGHTS = '/scratch/jingan/HRNet_pretrained/HRNet_shanghaiB.pth'
+__C.PRE_HR_WEIGHTS = '../HRNet_pretrained/HRNet_shanghaiB.pth'
