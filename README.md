@@ -46,7 +46,7 @@ The pretrained weights from [HERE](https://1drv.ms/f/s!Al2dMJC6HUgQrbYab3ozHGUYr
 
 ### Quantitative Results
 
-![arch](assets/A_B_QNRF.jpg)
+![arch](assets/A_B_QNRN_dataset.jpg)
 ![arch](assets/framework.jpg)
 
 ### Visual Results
